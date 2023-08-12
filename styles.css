@@ -1,0 +1,21 @@
+body {
+    background-color: #27374D;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h1 {
+    color: #9DB2BF;
+    font-size: 46px;
+}
+
+ul {
+    list-style: circle;
+    color: #DDE6ED;
+    font-size: 20px;
+}
